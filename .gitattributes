@@ -1,0 +1,7 @@
+# Text files should be normalized
+*.py            text
+*.ini           text
+*.txt           text
+*.md            text
+.gitattributes  text
+.gitignore      text
